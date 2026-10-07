@@ -11,7 +11,7 @@
 
 B2B/B2C marketplace connecting businesses, customers, consultants and partners.
 
-> [Explore the Project](https://redabensaad.github.io/algerieoffice)
+> <a href="https://redabensaad.github.io/algerieoffice" target="_blank" rel="noopener noreferrer">Explore the Project</a>
 
 ---
 
@@ -25,7 +25,6 @@ The project was designed for the Algerian market and deployed on Microsoft Azure
 
 $ What Was Built
 
-```console
 > Business directory and company profiles
 > B2B and B2C marketplace workflows
 > Customer and partner management
@@ -35,13 +34,11 @@ $ What Was Built
 > Business reporting and analytics
 > Excel import and export
 > Multi-language support
-```
 
 ---
 
 $ Technical Stack
 
-```console
 > Java 8
 > Spring Boot 2.1
 > Spring Security
@@ -55,43 +52,29 @@ $ Technical Stack
 > Twilio
 > Azure Storage
 > Azure Application Insights
-```
 
 ---
 
 $ Architecture
 
-```text
 Monolithic architecture built with Spring Boot MVC.
- 
-The application combines marketplace workflows,
-authentication, business management, reporting,
-notifications and cloud integrations within a single system.
- 
-Security is handled through Spring Security, OAuth2
-and two-factor authentication mechanisms.
-```
+
+The application combines marketplace workflows, authentication, business management, reporting, notifications and cloud integrations within a single system.
+
+Security is handled through Spring Security, OAuth2 and two-factor authentication mechanisms.
 
 ---
 
 $ Project Status
 
-```console
 > Archived production version
 > Originally deployed on Microsoft Azure
 > Modernization in progress using Spring REST APIs and Angular
-```
 
 ---
 
-$ Notes
+$ Historical Notes
 
-```text
-This repository preserves the original version of the platform
-developed between 2019 and 2020.
- 
-It is maintained as a portfolio project showcasing marketplace
-workflows, security implementation, cloud integrations,
-reporting capabilities and real-world business requirements.
-```
+This repository preserves the original version of the platform developed between 2019 and 2020.
 
+It is maintained as a portfolio project showcasing marketplace workflows, security implementation, cloud integrations, reporting capabilities and real-world business requirements.
