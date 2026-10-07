@@ -11,7 +11,7 @@
 
 B2B/B2C marketplace connecting businesses, customers, consultants and partners.
 
-> \> [Explore the Project](https://redabensaad.github.io/algerieoffice)
+> \> [Live Preview](https://redabensaad.github.io/algerieoffice)
 
 ---
 
