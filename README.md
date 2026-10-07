@@ -11,7 +11,7 @@
 
 B2B/B2C marketplace connecting businesses, customers, consultants and partners.
 
-> <a href="https://redabensaad.github.io/algerieoffice" target="_blank" rel="noopener noreferrer">Explore the Project</a>
+> \> [Explore the Project](https://redabensaad.github.io/algerieoffice)
 
 ---
 
@@ -25,33 +25,33 @@ The project was designed for the Algerian market and deployed on Microsoft Azure
 
 $ What Was Built
 
-> Business directory and company profiles
-> B2B and B2C marketplace workflows
-> Customer and partner management
-> OAuth2 authentication and two-factor authentication
-> Real-time notifications with WebSockets
-> Email and SMS integrations
-> Business reporting and analytics
-> Excel import and export
-> Multi-language support
+> \> Business directory and company profiles<br>
+> \> B2B and B2C marketplace workflows<br>
+> \> Customer and partner management<br>
+> \> OAuth2 authentication and two-factor authentication<br>
+> \> Real-time notifications with WebSockets<br>
+> \> Email and SMS integrations<br>
+> \> Business reporting and analytics<br>
+> \> Excel import and export<br>
+> \> Multi-language support<br>
 
 ---
 
 $ Technical Stack
 
-> Java 8
-> Spring Boot 2.1
-> Spring Security
-> OAuth2
-> PostgreSQL
-> JPA / Hibernate
-> JSP / JSTL
-> Apache Tiles
-> WebSockets
-> SendGrid
-> Twilio
-> Azure Storage
-> Azure Application Insights
+> \> Java 8<br>
+> \> Spring Boot 2.1<br>
+> \> Spring Security<br>
+> \> OAuth2<br>
+> \> PostgreSQL<br>
+> \> JPA / Hibernate<br>
+> \> JSP / JSTL<br>
+> \> Apache Tiles<br>
+> \> WebSockets<br>
+> \> SendGrid<br>
+> \> Twilio<br>
+> \> Azure Storage<br>
+> \> Azure Application Insights<br>
 
 ---
 
@@ -67,9 +67,9 @@ Security is handled through Spring Security, OAuth2 and two-factor authenticatio
 
 $ Project Status
 
-> Archived production version
-> Originally deployed on Microsoft Azure
-> Modernization in progress using Spring REST APIs and Angular
+> \> Archived production version<br>
+> \> Originally deployed on Microsoft Azure<br>
+> \> Modernization in progress using Spring REST APIs and Angular<br>
 
 ---
 
