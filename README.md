@@ -9,85 +9,89 @@
 
 # Algérie Office
 
-Digital marketplace platform designed to connect businesses, customers, partners, and consultants through a centralized B2B/B2C ecosystem.
+B2B/B2C marketplace connecting businesses, customers, consultants and partners.
 
-The platform helps Algerian companies improve their online visibility, attract new customers, manage business interactions, and digitize their commercial processes.
+> [Explore the Project](https://redabensaad.github.io/algerieoffice)
 
-## ✨ Key Features
+---
 
-* Business Directory & Company Profiles
-* B2B and B2C Marketplace Workflows
-* Customer & Partner Management
-* Secure Authentication & Authorization
-* OAuth2 and Two-Factor Authentication (2FA)
-* Real-Time Notifications via WebSockets
-* Email & SMS Notifications
-* Business Statistics & Reporting
-* Excel Import / Export
-* Multi-Language Platform
-* SEO Optimized Architecture
+$ Context
 
-## 🏗️ Architectural Highlights
+Originally developed as a full-stack marketplace platform to centralize business visibility, commercial interactions and professional networking within a single ecosystem.
 
-* Spring Boot MVC Architecture
-* PostgreSQL Persistence Layer
-* Spring Security Integration
-* OAuth2 Authentication
-* Real-Time Messaging with WebSockets
-* Azure Cloud Integration
-* Automated Reporting & Analytics
-* Scalable Marketplace Design
+The project was designed for the Algerian market and deployed on Microsoft Azure as a production-ready business platform.
 
-## 🛠️ Technologies Used
+---
 
-* **Java 8**
-* **Spring Boot 2.1**
-* **Spring Security**
-* **OAuth2**
-* **PostgreSQL**
-* **JPA / Hibernate**
-* **JSP / JSTL**
-* **Apache Tiles**
-* **WebSockets**
-* **SendGrid**
-* **Twilio**
-* **Azure Storage**
-* **Azure Application Insights**
+$ What Was Built
 
-## 🎯 Project Goals
+```console
+> Business directory and company profiles
+> B2B and B2C marketplace workflows
+> Customer and partner management
+> OAuth2 authentication and two-factor authentication
+> Real-time notifications with WebSockets
+> Email and SMS integrations
+> Business reporting and analytics
+> Excel import and export
+> Multi-language support
+```
 
-* Digitize business interactions and sales processes.
-* Improve online visibility for Algerian companies.
-* Provide a centralized B2B/B2C marketplace experience.
-* Connect customers, consultants, and commercial teams.
-* Deliver reporting, communication, and collaboration tools.
+---
 
-## 🚀 Current Evolution
+$ Technical Stack
 
-The platform is currently being modernized through a progressive separation of concerns:
+```console
+> Java 8
+> Spring Boot 2.1
+> Spring Security
+> OAuth2
+> PostgreSQL
+> JPA / Hibernate
+> JSP / JSTL
+> Apache Tiles
+> WebSockets
+> SendGrid
+> Twilio
+> Azure Storage
+> Azure Application Insights
+```
 
-* **Backend:** Spring Boot REST APIs
-* **Frontend:** Angular-based client application
-* **Improved Scalability:** Decoupled architecture for future growth
+---
 
-## 🤝 Contributing
+$ Architecture
 
-Contributions are welcome.
+```text
+Monolithic architecture built with Spring Boot MVC.
+ 
+The application combines marketplace workflows,
+authentication, business management, reporting,
+notifications and cloud integrations within a single system.
+ 
+Security is handled through Spring Security, OAuth2
+and two-factor authentication mechanisms.
+```
 
-Whether you want to improve the architecture, modernize the frontend, optimize performance, fix bugs, or enhance documentation, feel free to open an issue or submit a pull request.
+---
 
-## 📦 Project Status
+$ Project Status
 
-**Active Development**
+```console
+> Archived production version
+> Originally deployed on Microsoft Azure
+> Modernization in progress using Spring REST APIs and Angular
+```
 
-Initially developed as a monolithic marketplace platform, the project is currently evolving toward a modern Spring Boot + Angular architecture to improve maintainability, scalability, and user experience.
+---
 
-## 📚 Historical Project & Legacy Configuration
+$ Notes
 
-This repository is preserved as a snapshot of a real-world marketplace platform originally deployed on Microsoft Azure between 2019 and 2020.
+```text
+This repository preserves the original version of the platform
+developed between 2019 and 2020.
+ 
+It is maintained as a portfolio project showcasing marketplace
+workflows, security implementation, cloud integrations,
+reporting capabilities and real-world business requirements.
+```
 
-The project demonstrates a production-oriented architecture including authentication, business workflows, marketplace features, notifications, reporting, cloud integrations, and security mechanisms.
-
-Some configuration files still contain historical deployment settings from the original infrastructure. The credentials, API keys, connection strings, and cloud resources referenced in the project are no longer active and are retained solely for educational and archival purposes.
-
-Before running the application in a production or development environment, all external service configurations should be replaced with your own credentials and infrastructure settings.
