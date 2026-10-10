@@ -78,3 +78,9 @@ $ Historical Notes
 This repository preserves the original version of the platform developed between 2019 and 2020.
 
 It is maintained as a portfolio project showcasing marketplace workflows, security implementation, cloud integrations, reporting capabilities and real-world business requirements.
+
+---
+
+$ Preview
+
+![Algérie Office](screenshots/algerieoffice.png)
