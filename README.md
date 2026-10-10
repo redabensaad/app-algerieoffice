@@ -83,4 +83,4 @@ It is maintained as a portfolio project showcasing marketplace workflows, securi
 
 $ Preview
 
-![Algérie Office](screenshots/algerieoffice.png)
+![Algérie Office](screenshot/algerieoffice.jpg)
